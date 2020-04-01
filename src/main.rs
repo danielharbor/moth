@@ -1,5 +1,6 @@
 pub mod first;
 pub mod second;
+pub mod third;
 pub mod palindrome;
 
 use palindrome::is_palindrome;
